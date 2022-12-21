@@ -1,0 +1,82 @@
+Calculating mAP at 0.50 IoU threshold...
+100.00% = civic AP 
+87.55% = crosstrek AP 
+100.00% = ford AP 
+58.33% = mazda AP 
+77.78% = toyota AP 
+mAP = 84.73%
+Calculating mAP at 0.55 IoU threshold...
+100.00% = civic AP 
+87.55% = crosstrek AP 
+100.00% = ford AP 
+58.33% = mazda AP 
+77.78% = toyota AP 
+mAP = 84.73%
+Calculating mAP at 0.60 IoU threshold...
+100.00% = civic AP 
+87.55% = crosstrek AP 
+100.00% = ford AP 
+58.33% = mazda AP 
+77.78% = toyota AP 
+mAP = 84.73%
+Calculating mAP at 0.65 IoU threshold...
+100.00% = civic AP 
+87.55% = crosstrek AP 
+100.00% = ford AP 
+58.33% = mazda AP 
+77.78% = toyota AP 
+mAP = 84.73%
+Calculating mAP at 0.70 IoU threshold...
+100.00% = civic AP 
+87.55% = crosstrek AP 
+100.00% = ford AP 
+58.33% = mazda AP 
+77.78% = toyota AP 
+mAP = 84.73%
+Calculating mAP at 0.75 IoU threshold...
+100.00% = civic AP 
+87.55% = crosstrek AP 
+100.00% = ford AP 
+58.33% = mazda AP 
+77.78% = toyota AP 
+mAP = 84.73%
+Calculating mAP at 0.80 IoU threshold...
+100.00% = civic AP 
+87.55% = crosstrek AP 
+91.72% = ford AP 
+58.33% = mazda AP 
+65.08% = toyota AP 
+mAP = 80.54%
+Calculating mAP at 0.85 IoU threshold...
+85.94% = civic AP 
+87.55% = crosstrek AP 
+83.43% = ford AP 
+44.05% = mazda AP 
+65.08% = toyota AP 
+mAP = 73.21%
+Calculating mAP at 0.90 IoU threshold...
+41.15% = civic AP 
+14.29% = crosstrek AP 
+45.61% = ford AP 
+19.05% = mazda AP 
+33.33% = toyota AP 
+mAP = 30.69%
+Calculating mAP at 0.95 IoU threshold...
+0.00% = civic AP 
+14.29% = crosstrek AP 
+0.00% = ford AP 
+0.00% = mazda AP 
+11.11% = toyota AP 
+mAP = 5.08%
+
+***mAP Results***
+
+Class		Average mAP @ 0.5:0.95
+---------------------------------------
+crosstrek		72.90%
+mazda		47.14%
+civic		82.71%
+ford		82.08%
+toyota		64.13%
+
+Overall		69.79%

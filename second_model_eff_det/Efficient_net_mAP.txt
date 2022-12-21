@@ -1,0 +1,87 @@
+
+3s
+%cd /content/mAP
+!python calculate_map_cartucho.py --labels=/content/labelmap.txt
+/content/mAP
+Calculating mAP at 0.50 IoU threshold...
+0.00% = civic AP 
+38.54% = crosstrek AP 
+19.37% = ford AP 
+10.00% = mazda AP 
+44.44% = toyota AP 
+mAP = 22.47%
+Calculating mAP at 0.55 IoU threshold...
+0.00% = civic AP 
+38.54% = crosstrek AP 
+19.37% = ford AP 
+10.00% = mazda AP 
+44.44% = toyota AP 
+mAP = 22.47%
+Calculating mAP at 0.60 IoU threshold...
+0.00% = civic AP 
+30.69% = crosstrek AP 
+16.19% = ford AP 
+10.00% = mazda AP 
+44.44% = toyota AP 
+mAP = 20.26%
+Calculating mAP at 0.65 IoU threshold...
+0.00% = civic AP 
+30.69% = crosstrek AP 
+16.19% = ford AP 
+10.00% = mazda AP 
+44.44% = toyota AP 
+mAP = 20.26%
+Calculating mAP at 0.70 IoU threshold...
+0.00% = civic AP 
+28.65% = crosstrek AP 
+16.19% = ford AP 
+10.00% = mazda AP 
+44.44% = toyota AP 
+mAP = 19.86%
+Calculating mAP at 0.75 IoU threshold...
+0.00% = civic AP 
+28.65% = crosstrek AP 
+16.19% = ford AP 
+10.00% = mazda AP 
+44.44% = toyota AP 
+mAP = 19.86%
+Calculating mAP at 0.80 IoU threshold...
+0.00% = civic AP 
+21.88% = crosstrek AP 
+16.19% = ford AP 
+10.00% = mazda AP 
+44.44% = toyota AP 
+mAP = 18.50%
+Calculating mAP at 0.85 IoU threshold...
+0.00% = civic AP 
+12.50% = crosstrek AP 
+10.00% = ford AP 
+0.00% = mazda AP 
+44.44% = toyota AP 
+mAP = 13.39%
+Calculating mAP at 0.90 IoU threshold...
+0.00% = civic AP 
+2.08% = crosstrek AP 
+7.14% = ford AP 
+0.00% = mazda AP 
+30.56% = toyota AP 
+mAP = 7.96%
+Calculating mAP at 0.95 IoU threshold...
+0.00% = civic AP 
+0.52% = crosstrek AP 
+7.14% = ford AP 
+0.00% = mazda AP 
+0.00% = toyota AP 
+mAP = 1.53%
+
+***mAP Results***
+
+Class		Average mAP @ 0.5:0.95
+---------------------------------------
+crosstrek		23.27%
+mazda		7.00%
+civic		0.00%
+ford		14.40%
+toyota		38.61%
+
+Overall		16.66%
